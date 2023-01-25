@@ -1,0 +1,28 @@
+# MacOS
+.DS_Store
+
+# Cocoa Pods
+Pods
+Podfile
+Podfile.lock
+
+# R.swift
+*.generated.swift
+
+# Logs
+/test_logs/*
+/analysis_logs/*
+unit_test_log.txt
+/build/reports/*
+
+# Node
+node_modules
+
+# Othersw
+.package.resolved
+*.app.dSYM.zip
+*.ipa
+xcuserdata
+.idea
+.swp
+Preview.html
